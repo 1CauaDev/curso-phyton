@@ -1,0 +1,5 @@
+valor=input("Digite um  numero inteiro:").zfill(4)
+print(f'{valor[0]} -- Milhar')
+print(f'{valor[1]} -- Centena')
+print(f'{valor[2]} -- Dezena')
+print(f'{valor[3]} -- Unidade')

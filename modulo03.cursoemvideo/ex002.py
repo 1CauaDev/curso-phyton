@@ -1,0 +1,5 @@
+tabela = ('Botafogo', 'Palmeiras', 'Fortaleza', 'Internacional', 'Flamengo', 'São Paulo',' Cruzeiro', 'Bahia', 'Corinthians',' Vitória', 'Vasco', 'Juventude', 'Grêmio', 'Fluminense', 'Atlético-MG' ,'RB Bragantino')
+print(tabela[0:5])
+print(tabela[12:16])
+print(sorted(tabela))
+print(tabela[6])

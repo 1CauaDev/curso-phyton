@@ -12,6 +12,6 @@ elif opcao ==3:
 else:
     print("opcao invalida")
     print("FIM DO PROGRAMA!")
-    
+
 
 

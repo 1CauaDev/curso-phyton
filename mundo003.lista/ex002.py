@@ -18,3 +18,4 @@ while True :
 valores.sort ()
 print()
 print(f"Valores digitados em ordem crescentes sao : {valores}")
+

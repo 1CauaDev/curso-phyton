@@ -15,7 +15,7 @@ while True :
             pilha.append('(')
         elif simb == ')':
             if len(pilha) >0:
-                pilha.pop
+                pilha.pop()
             else :
                 pilha.append(')')
                 break

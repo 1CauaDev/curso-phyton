@@ -25,3 +25,4 @@ print(f"Os valores pares sao {pares}")
 print(f"os valores impares sao {impares}")
 
 
+
